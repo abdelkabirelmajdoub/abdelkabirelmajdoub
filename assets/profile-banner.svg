@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+<title id="title">Abdelkabir El Majdoub — Full Stack Developer</title>
+<desc id="desc">Dark editorial banner with cyan code brackets, oversized name, and frontend, backend, systems labels.</desc>
+<rect width="1280" height="460" fill="#0b1017"/>
+<path d="M0 1H1280M0 459H1280" stroke="#25313d"/>
+<path d="M950 0V460M1050 0V460M1150 0V460M1250 0V460M900 80H1280M900 180H1280M900 280H1280M900 380H1280" stroke="#15232d"/>
+<circle cx="1090" cy="230" r="146" fill="none" stroke="#21404b"/>
+<circle cx="1090" cy="230" r="110" fill="none" stroke="#16303b"/>
+<path d="M1032 183L982 230L1032 277M1148 183L1198 230L1148 277M1116 161L1064 299" fill="none" stroke="#55e0e0" stroke-width="9" stroke-linecap="square"/>
+<rect x="60" y="55" width="28" height="3" fill="#55e0e0"/>
+<text x="101" y="63" fill="#55e0e0" font-family="Consolas, monospace" font-size="15" letter-spacing="3">FULL STACK DEVELOPER</text>
+<g fill="#f1f5f9" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="82" letter-spacing="-3">
+<text x="56" y="178">Abdelkabir</text>
+<text x="56" y="268">El Majdoub<tspan fill="#55e0e0">.</tspan></text>
+</g>
+<text x="61" y="316" fill="#a8b8c6" font-family="Arial, Helvetica, sans-serif" font-size="22">From expressive interfaces to the systems beneath.</text>
+<path d="M60 363H850" stroke="#25313d"/>
+<text x="61" y="405" fill="#55e0e0" font-family="Consolas, monospace" font-size="14" letter-spacing="2">FRONTEND / BACKEND / SYSTEMS</text>
+<text x="1218" y="411" text-anchor="end" fill="#66808d" font-family="Consolas, monospace" font-size="14">&lt;/&gt;</text>
+</svg>

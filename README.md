@@ -1,52 +1,74 @@
-<div align="center">
+<a href="https://elmajdoub-portfolio.vercel.app/">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Abdelkabir El Majdoub — Full Stack Developer. From expressive interfaces to the systems beneath." />
+</a>
 
-# Abdelkabir El Majdoub
+<p align="center">
+  <a href="https://elmajdoub-portfolio.vercel.app/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-55E0E0?style=for-the-badge&amp;logo=vercel&amp;logoColor=0B1017" alt="View my portfolio" /></a>
+  &nbsp;
+  <a href="https://github.com/abdelkabirelmajdoub?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-17212B?style=for-the-badge&amp;logo=github&amp;logoColor=55E0E0" alt="Explore my repositories" /></a>
+</p>
 
-### Full Stack Developer
+<br />
 
-Building for the web, from the interface to the database.
+### 01 / About
 
-[![Portfolio](https://img.shields.io/badge/VIEW_MY_PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://elmajdoub-portfolio.vercel.app/)
-[![GitHub](https://img.shields.io/badge/EXPLORE_MY_CODE-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdelkabirelmajdoub?tab=repositories)
+I'm **Abdelkabir El Majdoub**, a full stack developer working across web interfaces, APIs, databases, and systems programming.
 
-</div>
+My toolkit connects **React** interfaces with **Express.js** backends and **PostgreSQL**, alongside **C, C++, and Docker**.
+
+<br />
+
+### 02 / Toolkit
+
+**Frontend** &nbsp; / &nbsp; Interfaces & experiences
+
+![React](https://img.shields.io/badge/React-17212B?style=flat-square&logo=react&logoColor=55E0E0)
+![Vite](https://img.shields.io/badge/Vite-17212B?style=flat-square&logo=vite&logoColor=55E0E0)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-17212B?style=flat-square&logo=tailwindcss&logoColor=55E0E0)
+![JavaScript](https://img.shields.io/badge/JavaScript-17212B?style=flat-square&logo=javascript&logoColor=55E0E0)
+
+**Backend** &nbsp; / &nbsp; APIs & data
+
+![Node.js](https://img.shields.io/badge/Node.js-17212B?style=flat-square&logo=nodedotjs&logoColor=55E0E0)
+![Express.js](https://img.shields.io/badge/Express.js-17212B?style=flat-square&logo=express&logoColor=55E0E0)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-17212B?style=flat-square&logo=postgresql&logoColor=55E0E0)
+
+**Systems & deployment** &nbsp; / &nbsp; Under the hood
+
+![C](https://img.shields.io/badge/C-17212B?style=flat-square&logo=c&logoColor=55E0E0)
+![C++](https://img.shields.io/badge/C%2B%2B-17212B?style=flat-square&logo=cplusplus&logoColor=55E0E0)
+![Docker](https://img.shields.io/badge/Docker-17212B?style=flat-square&logo=docker&logoColor=55E0E0)
+
+<br />
+
+### 03 / Selected work
+
+#### [Portfolio ↗](https://elmajdoub-portfolio.vercel.app/)
+My personal space on the web. Explore my work and projects.
 
 ---
 
-### A little about me
-
-I'm Abdelkabir, a full stack developer working with **React, Vite, and Tailwind CSS** on the frontend, and **Node.js, Express.js, and PostgreSQL** on the backend.
-
-I enjoy connecting clean interfaces with the APIs and data behind them.
-
-### My toolkit
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=A78BFA)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-**Backend & database**
-
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=60A5FA)
-
-### Featured work
-
-| Project | Explore |
-| :--- | :--- |
-| **Personal portfolio** — A closer look at my work and projects. | [Visit portfolio ↗](https://elmajdoub-portfolio.vercel.app/) |
-| **webserv** — Explore the project repository. | [View source ↗](https://github.com/ourhouchmohamed97/webserv) |
+#### [minishell-42 ↗](https://github.com/abdelkabirelmajdoub/minishell-42)
+[Explore the repository →](https://github.com/abdelkabirelmajdoub/minishell-42)
 
 ---
 
-<div align="center">
+#### [webserv ↗](https://github.com/ourhouchmohamed97/webserv)
+[Explore the repository →](https://github.com/ourhouchmohamed97/webserv)
 
-**Have a look around. Let's build something useful.**
+<br />
 
-[Portfolio](https://elmajdoub-portfolio.vercel.app/) &nbsp; · &nbsp; [GitHub](https://github.com/abdelkabirelmajdoub)
+### 04 / Languages
 
-</div>
+| Arabic | English | French |
+| :--- | :--- | :--- |
+| Native language | Very good proficiency | Basic proficiency |
+
+<br />
+
+---
+
+<p align="center">
+  <strong>Interfaces. APIs. Systems.</strong><br /><br />
+  <a href="https://elmajdoub-portfolio.vercel.app/">Visit my portfolio ↗</a>
+</p>
